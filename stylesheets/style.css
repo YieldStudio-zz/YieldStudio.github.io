@@ -89,4 +89,16 @@ h6, .soon {
   /* line 99, /Users/nicholasdavidson/Nicholas/Yield Studio/Production/build/source/stylesheets/style.css.scss */
   h1 {
     font-size: 120px;
-    line-height: 120px; } }
+    line-height: 120px; }
+
+  /* line 104, /Users/nicholasdavidson/Nicholas/Yield Studio/Production/build/source/stylesheets/style.css.scss */
+  h6, .soon {
+    font-size: 14px; }
+
+  /* line 107, /Users/nicholasdavidson/Nicholas/Yield Studio/Production/build/source/stylesheets/style.css.scss */
+  .soon {
+    margin-bottom: 60px; }
+
+  /* line 110, /Users/nicholasdavidson/Nicholas/Yield Studio/Production/build/source/stylesheets/style.css.scss */
+  .glyph-icon {
+    padding: 20px 30px; } }
